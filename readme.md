@@ -1,2 +1,3 @@
 
-Salut les gens!
+Salut!
+Il est 19h.
